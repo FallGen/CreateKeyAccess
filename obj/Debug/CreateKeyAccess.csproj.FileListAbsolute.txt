@@ -1,0 +1,20 @@
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\CreateKeyAccess.exe.config
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\CreateKeyAccess.exe
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\CreateKeyAccess.pdb
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.csproj.AssemblyReference.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.Form1.resources
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.Properties.Resources.resources
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.csproj.GenerateResource.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.csproj.CoreCompileInputs.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.exe
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Debug\CreateKeyAccess.pdb
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ сотрудник.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\ЗАД ОБЩИЙ.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ ПОД СОТРУДНИКА.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\круг_белый_текст.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\круг_белый.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\рамка фото.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ ЛИЦО ОБЩИЙ.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ ЗАД ПРАВИЛА.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ почетный гость зад.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Debug\Resources\МАКЕТ почетный гость.png

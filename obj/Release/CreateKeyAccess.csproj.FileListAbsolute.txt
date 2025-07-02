@@ -1,0 +1,20 @@
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ сотрудник.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\ЗАД ОБЩИЙ.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ ПОД СОТРУДНИКА.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\круг_белый_текст.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\круг_белый.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\рамка фото.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ ЛИЦО ОБЩИЙ.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ ЗАД ПРАВИЛА.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ почетный гость зад.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\Resources\МАКЕТ почетный гость.png
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\CreateKeyAccess.exe.config
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\CreateKeyAccess.exe
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\bin\Release\CreateKeyAccess.pdb
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.csproj.AssemblyReference.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.Form1.resources
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.Properties.Resources.resources
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.csproj.GenerateResource.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.csproj.CoreCompileInputs.cache
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.exe
+C:\Users\n_332\source\repos\CreateKeyAccess\CreateKeyAccess\obj\Release\CreateKeyAccess.pdb
